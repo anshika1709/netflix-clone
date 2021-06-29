@@ -3,9 +3,10 @@
   overflow-y: hidden;
   overflow-x: scroll;
   padding-bottom: 10px;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 .row {
+  color: aliceblue;
   margin-left: 15px;
 }
 
